@@ -2,7 +2,7 @@
 
 This repository define a universal file format to store DNA kmers and their associated data.
 The associated data for a kmer can be everything if its size is constant from a kmer to another.
-For example, a count with a maximum of 255 can be store on a byte associated to each kmer.
+For example, a count with a maximum of 255 can be stored on a byte associated to each kmer.
 
 If you need io APIs or tools for kff format, please have a look at [kff organization repositories](https://github.com/Kmer-File-Format)
 
